@@ -1,12 +1,4 @@
-# Vue + Tailwind CSS Project
-
-A modern Vue.js project bootstrapped with Vite and Tailwind CSS.
-
-## Features
-
-- ⚡️ [Vite](https://vitejs.dev/) - Next generation frontend tooling
-- 🎨 [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- 🚀 [Vue 3](https://vuejs.org/) - Progressive JavaScript framework
+# Test
 
 ## Getting Started
 
